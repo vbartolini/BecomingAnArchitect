@@ -127,11 +127,11 @@ Dlaczego ten format: linia "Rytm" to Twoje metryki (szybki rzut oka, czy budżet
 
 ## Praktyka
 
-- [ ] Zainicjuj git w katalogu planu (`git init`), jeśli jeszcze nie jest repozytorium; dodaj `.gitignore` pod .NET (np. `dotnet new gitignore`), bo w `exercises/` i folderach-wizytówkach pojawi się kod.
-- [ ] Utwórz strukturę: katalog `notes/` i `exercises/` (z plikiem `.gitkeep` lub pierwszą notatką, żeby git je widział) oraz plik `progress.md` z szablonem z tej lekcji.
-- [ ] Zrób pierwszy commit zgodnie z konwencją (np. `docs(m0): struktura repo nauki + progress.md`) i ustaw zdalne repo na GitHub.
-- [ ] Podejmij decyzję publiczne/prywatne — zapisz ją na razie w notatce; w lekcji 03 przeniesiesz ją do dziennika decyzji jako pełny wpis.
-- [ ] Podczas najbliższego przeglądu tygodnia wypełnij pierwszy wpis w `progress.md` (wpis za tydzień modułu 0).
+- [x] Zainicjuj git w katalogu planu (`git init`), jeśli jeszcze nie jest repozytorium; dodaj `.gitignore` pod .NET (np. `dotnet new gitignore`), bo w `exercises/` i folderach-wizytówkach pojawi się kod.
+- [x] Utwórz strukturę: katalog `notes/` i `exercises/` (z plikiem `.gitkeep` lub pierwszą notatką, żeby git je widział) oraz plik `progress.md` z szablonem z tej lekcji.
+- [x] Zrób pierwszy commit zgodnie z konwencją (np. `docs(m0): struktura repo nauki + progress.md`) i ustaw zdalne repo na GitHub.
+- [x] Podejmij decyzję publiczne/prywatne — zapisz ją na razie w notatce; w lekcji 03 przeniesiesz ją do dziennika decyzji jako pełny wpis.
+- [x] Podczas najbliższego przeglądu tygodnia wypełnij pierwszy wpis w `progress.md` (wpis za tydzień modułu 0).
 
 ## Artefakt
 
@@ -140,11 +140,11 @@ Dlaczego ten format: linia "Rytm" to Twoje metryki (szybki rzut oka, czy budżet
 
 ## Definition of Done
 
-- [ ] `git log` pokazuje co najmniej 3 commity z prawdziwej pracy, każdy w konwencji `typ(moduł): opis`.
-- [ ] Struktura `kurs/`, `notes/`, `exercises/`, `progress.md` istnieje w repo.
-- [ ] Repo ma skonfigurowany remote na GitHub i jest wypchnięte.
-- [ ] Decyzja publiczne/prywatne jest podjęta i zapisana (z uzasadnieniem).
-- [ ] `progress.md` zawiera pierwszy wypełniony wpis tygodniowy.
+- [x] `git log` pokazuje co najmniej 3 commity z prawdziwej pracy, każdy w konwencji `typ(moduł): opis`.
+- [x] Struktura `kurs/`, `notes/`, `exercises/`, `progress.md` istnieje w repo.
+- [x] Repo ma skonfigurowany remote na GitHub i jest wypchnięte.
+- [x] Decyzja publiczne/prywatne jest podjęta i zapisana (z uzasadnieniem).
+- [x] `progress.md` zawiera pierwszy wypełniony wpis tygodniowy.
 
 ## Materiały
 

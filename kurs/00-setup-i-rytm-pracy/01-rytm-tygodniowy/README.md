@@ -83,11 +83,11 @@ Typowe mechanizmy porażki i ich mitygacje:
 
 ## Praktyka
 
-- [ ] Zaprojektuj swój tydzień na papierze/w notatce: przypisz 4 bloki deep work do konkretnych dni i godzin, wyznacz slot na post, slot na przegląd i dzień buforowy.
+- [x] Zaprojektuj swój tydzień na papierze/w notatce: przypisz 4 bloki deep work do konkretnych dni i godzin, wyznacz slot na post, slot na przegląd i dzień buforowy.
 - [ ] Utwórz w DayChunks szablon tygodnia z tymi blokami: blok nauki jako pierwszy chunk dnia (4×), chunk "post LinkedIn" (1×), chunk "przegląd tygodnia" (1×), chunki "komentowanie 15 min" (3–4×).
-- [ ] Zdefiniuj swój budżet błędów i regułę recovery (np. "3/4 bloków = tydzień OK; zerwanego bloku nie odrabiam") — zapisz je, trafią potem do dziennika decyzji (lekcja 03).
-- [ ] Przeprowadź pierwszy blok 2h według zasad ochrony (rano, telefon poza zasięgiem, wejście od konkretnej lekcji, wyjście commitem) — materiałem może być lekcja 02 tego modułu.
-- [ ] Na koniec tygodnia przeprowadź pierwszy przegląd według formatu trzech pytań i zapisz wynik.
+- [x] Zdefiniuj swój budżet błędów i regułę recovery (np. "3/4 bloków = tydzień OK; zerwanego bloku nie odrabiam") — zapisz je, trafią potem do dziennika decyzji (lekcja 03).
+- [x] Przeprowadź pierwszy blok 2h według zasad ochrony (rano, telefon poza zasięgiem, wejście od konkretnej lekcji, wyjście commitem) — materiałem może być lekcja 02 tego modułu.
+- [x] Na koniec tygodnia przeprowadź pierwszy przegląd według formatu trzech pytań i zapisz wynik.
 
 ## Artefakt
 
@@ -98,9 +98,9 @@ Typowe mechanizmy porażki i ich mitygacje:
 
 - [ ] Szablon tygodnia istnieje w DayChunks i ma wszystkie elementy rytmu (4× nauka, 1× post, 3–4× komentowanie, 1× przegląd).
 - [ ] Każdy blok deep work ma przypisany konkretny dzień i godzinę — nie "4 razy w tygodniu".
-- [ ] Masz zapisany budżet błędów i regułę powrotu po zerwanym bloku.
-- [ ] Co najmniej jeden blok 2h odbył się naprawdę i zakończył commitem.
-- [ ] Pierwszy przegląd tygodnia odbył się i jego wynik jest zapisany.
+- [x] Masz zapisany budżet błędów i regułę powrotu po zerwanym bloku.
+- [x] Co najmniej jeden blok 2h odbył się naprawdę i zakończył commitem.
+- [x] Pierwszy przegląd tygodnia odbył się i jego wynik jest zapisany.
 
 ## Materiały
 
