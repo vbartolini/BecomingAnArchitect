@@ -128,12 +128,12 @@ Zwróć uwagę na wpis D-001: to jest dokładnie ta decyzja, dla której w modul
 
 ## Praktyka
 
-- [ ] Utwórz plik `notes/decisions-log.md` z krótkim nagłówkiem (czym jest ten plik, zasady: wpisy niemutowalne, najnowsze na górze, próg "konsekwencje > tydzień") i szablonem wpisu z tej lekcji.
-- [ ] Napisz wpis D-001 o realnej, już podjętej decyzji dotyczącej DayChunks (np. własną wersję "DayChunks bez backendu" — przykład z lekcji potraktuj jako wzór formy, treść napisz po swojemu, zgodnie z faktycznym kontekstem).
-- [ ] Napisz wpis D-002 o decyzji z tego modułu: publiczność repo (z lekcji 02) **albo** Twój budżet błędów i pora bloków nauki (z lekcji 01).
-- [ ] Test obcego czytelnika: przeczytaj oba wpisy udając, że nie znasz autora. Czy kontekst opisuje świat, a nie broni decyzji? Czy w konsekwencjach jest co najmniej jeden uczciwy minus? Popraw, jeśli nie.
-- [ ] Dodaj do formatu przeglądu tygodnia (lekcja 01) jedno pytanie: "czy w tym tygodniu podjąłem decyzję wartą wpisu do decisions-log?" — to mechanizm, który utrzyma dziennik przy życiu.
-- [ ] Zacommituj plik zgodnie z konwencją z lekcji 02 (np. `notes(m0): dziennik decyzji + D-001, D-002`).
+- [x] Utwórz plik `notes/decisions-log.md` z krótkim nagłówkiem (czym jest ten plik, zasady: wpisy niemutowalne, najnowsze na górze, próg "konsekwencje > tydzień") i szablonem wpisu z tej lekcji.
+- [x] Napisz wpis D-001 o realnej, już podjętej decyzji dotyczącej DayChunks (np. własną wersję "DayChunks bez backendu" — przykład z lekcji potraktuj jako wzór formy, treść napisz po swojemu, zgodnie z faktycznym kontekstem).
+- [x] Napisz wpis D-002 o decyzji z tego modułu: publiczność repo (z lekcji 02) **albo** Twój budżet błędów i pora bloków nauki (z lekcji 01).
+- [x] Test obcego czytelnika: przeczytaj oba wpisy udając, że nie znasz autora. Czy kontekst opisuje świat, a nie broni decyzji? Czy w konsekwencjach jest co najmniej jeden uczciwy minus? Popraw, jeśli nie.
+- [x] Dodaj do formatu przeglądu tygodnia (lekcja 01) jedno pytanie: "czy w tym tygodniu podjąłem decyzję wartą wpisu do decisions-log?" — to mechanizm, który utrzyma dziennik przy życiu.
+- [x] Zacommituj plik zgodnie z konwencją z lekcji 02 (np. `notes(m0): dziennik decyzji + D-001, D-002`).
 
 ## Artefakt
 
@@ -141,11 +141,11 @@ Zwróć uwagę na wpis D-001: to jest dokładnie ta decyzja, dla której w modul
 
 ## Definition of Done
 
-- [ ] Plik `notes/decisions-log.md` istnieje w repo i jest zacommitowany.
-- [ ] Zawiera minimum 2 wpisy o realnych, podjętych decyzjach (nie wymyślonych na potrzeby ćwiczenia).
-- [ ] Każdy wpis ma wszystkie trzy sekcje, a w konsekwencjach co najmniej jeden szczery minus.
-- [ ] Kontekst każdego wpisu przechodzi test obcego czytelnika (zrozumiały bez wiedzy z Twojej głowy).
-- [ ] Pytanie o nowe decyzje jest dodane do formatu cotygodniowego przeglądu.
+- [x] Plik `notes/decisions-log.md` istnieje w repo i jest zacommitowany.
+- [x] Zawiera minimum 2 wpisy o realnych, podjętych decyzjach (nie wymyślonych na potrzeby ćwiczenia).
+- [x] Każdy wpis ma wszystkie trzy sekcje, a w konsekwencjach co najmniej jeden szczery minus.
+- [x] Kontekst każdego wpisu przechodzi test obcego czytelnika (zrozumiały bez wiedzy z Twojej głowy).
+- [x] Pytanie o nowe decyzje jest dodane do formatu cotygodniowego przeglądu.
 
 ## Materiały
 
