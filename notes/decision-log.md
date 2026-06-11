@@ -26,6 +26,18 @@ nie uzasadnienie wyboru.
 
 ---
 
+## D-003: Rezygnacja z dwóch repoztoriów public/private (2026-06-11)
+
+**Kontekst:** Lekcja 02 zakłada publiczne/prywatne repozytorium..
+
+**Decyzja:** Będzie jedno repozytorium, w którym będą przechowywane wszystkie informacje.
+
+**Konsekwencje:**
+- (+) pełną chronologię
+- (+) brak zamieszania z potrzebą commitowania do różnych repozytoriów.
+- (+) możliwość skupienia się na pracy, a nie na separaci, która w kontekście nauki jest po prostu niepotrzebnym kosztem.
+- (?) czego nie wiem — czy w przyszłości moje notatki, błędy będą postrzegane jako negatywy podczas rozpatrywania mojej kandydatury
+
 ## D-002: Budżet błędów rytmu nauki — 2 z 4 bloków, bez odrabiania, przegląd nietykalny (2026-06-11)
 
 **Kontekst:** Rytm z lekcji 01 zakłada 4 bloki deep work po 2h tygodniowo, plus post, komentowanie i przegląd tygodnia. Równolegle rozwijam DayChunks — w tygodniu startowym dobudowanie szablonu tygodnia pochłonęło 16h (D-001)
