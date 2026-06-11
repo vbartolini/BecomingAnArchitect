@@ -26,6 +26,21 @@ nie uzasadnienie wyboru.
 
 ---
 
+## D-002: Budżet błędów rytmu nauki — 2 z 4 bloków, bez odrabiania, przegląd nietykalny (2026-06-11)
+
+**Kontekst:** Rytm z lekcji 01 zakłada 4 bloki deep work po 2h tygodniowo, plus post, komentowanie i przegląd tygodnia. Równolegle rozwijam DayChunks — w tygodniu startowym dobudowanie szablonu tygodnia pochłonęło 16h (D-001)
+i ta praca będzie kontynuowana. Budżet błędów ma być zaprojektowany na mój przeciętny tydzień (praca, rodzina, DayChunks), nie na tydzień największej motywacji — zbyt ambitny próg uruchomi mechanizm "wszystko albo nic", przed którym ostrzega lekcja.
+
+**Decyzja:** Tydzień jest zaliczony przy **2 z 4 bloków deep work** (zamiast 3/4 z lekcji, bo na etapie równoległej pracy nad DayChunks ostrzejszy próg byłby progiem na najlepszy tydzień, nie przeciętny). Reguły towarzyszące: **zerwanego bloku nie odrabiam** — wracam do najbliższego zaplanowanego; budżet obejmuje tylko bloki deep work, a **przegląd tygodnia odbywa się zawsze** — to mechanizm samonaprawy i jedyny element bez budżetu. Dopiero drugi tydzień z rzędu poniżej budżetu to incydent do analizy na przeglądzie.
+
+**Konsekwencje:**
+- (+) plan przeżyje gorsze tygodnie — jeden zły tydzień nie uruchamia  spirali "plan stracony"
+- (+) brak odrabiania = brak lawiny zaległości przeciążającej kolejne dni
+- (+) nietykalny przegląd gwarantuje, że nawet słaby tydzień kończy się pętlą korekty, a nie cichym dryfem
+- (–) próg 2/4 to połowa zakładanego tempa — jeśli stanie się normą, a nie podłogą, kurs planowany na 6–9 miesięcy rozciągnie się do 12 i więcej
+- (–) ryzyko kotwiczenia: budżet błędów łatwo zamienia się w cel ("2 bloki zrobione, jestem OK") — na przeglądzie liczę faktyczne bloki,  nie tylko zaliczenie progu
+- (?) czy 2/4 to kalibracja na czas prac nad DayChunks, czy stałe tempo — zweryfikuję po 4 tygodniach; jeśli regularnie wychodzą 3–4 bloki, nowy wpis podniesie próg (unieważni D-002)
+
 ## D-001: Dobudowuję brakującą funkcję w DayChunks zamiast obchodzić jej brak (2026-06-11)
 
 **Kontekst:** Prowadzę naukę z kursu Architect Track według rytmu z modułu 0, a bloki nauki planuję w DayChunks — własnej aplikacji do planowania dnia chunkami, którą rozwijam po godzinach. Lekcja 01 wymaga powtarzalnego szablonu tygodnia z blokami nauki, a okazało się, że DayChunks nie oferuje funkcji szablonu tygodnia. 
