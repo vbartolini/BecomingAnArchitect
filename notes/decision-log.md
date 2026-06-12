@@ -26,6 +26,24 @@ nie uzasadnienie wyboru.
 
 ---
 
+## D-004: Testy wiedzy w Anki — generowane per lekcja, poza repozytorium (2026-06-12)
+
+  **Kontekst:** Kurs jest gęsty od wiedzy odtwarzalnej: definicje, liczby (dziewiątki, timeouty, RU), macierze decyzyjne i trade-offy. Lekcje mają Definition of Done i artefakty, ale żaden mechanizm nie pilnuje retencji
+  między modułami — a materiał z modułu 1 będzie potrzebny na rozmowach miesiące po jego przerobieniu. Fiszki potrafię generować z treści lekcji przy pomocy Claude Code, co zdejmuje główny koszt metody (ręczne tworzenie
+  kart). Repozytorium kursu jest publiczne z założenia (D-003).
+
+  **Decyzja:** Każda przerobiona lekcja kończy się talią Anki: bank pytań generowany z treści lekcji (`anki/zrodla/*.md` → `.apkg` per lekcja, talie `L<poziom><lekcja> - <nazwa>`), a codzienne powtórki wchodzą do rytmu nauki poza blokami deep work. Cały materiał Anki pozostaje poza repozytorium (`.gitignore`: `*.apkg`, `anki/`) — to warsztat prywatny, nie artefakt publiczny.
+
+  **Konsekwencje:**
+  - (+) spaced repetition pilnuje retencji liczb i trade-offów, których nie utrwala samo wytworzenie artefaktu — wiedza z modułu 1 ma przeżyć do capstone
+  - (+) paczka per lekcja = import w miarę przerabiania, talia rośnie razem z kursem zamiast przytłaczać od pierwszego dnia
+  - (+) generowanie kart kosztuje minuty, nie godziny — metoda nie konkuruje z czasem na artefakty
+  - (–) karty generowane, nie pisane ręcznie — słabsze kodowanie niż przy samodzielnym układaniu pytań; odpowiedzi wymagają weryfikacji przy powtórce, nie ślepego zaufania
+  - (–) ~1100 kart po trzech modułach to realna codzienna kolejka; powtórki muszą zmieścić się w 15–20 min/dzień, inaczej zaczną wypierać bloki nauki
+  - (–) materiał poza gitem = brak kopii zapasowej źródeł pytań w repo — świadomy koszt prywatności warsztatu
+  - (?) czy kolejka powtórek przeżyje kontakt z przeciętnym tygodniem (D-002) — zweryfikuję po 4 tygodniach: jeśli zaległości w Anki rosną, ograniczam  nowe karty/dzień zamiast porzucać metodę
+  - (?) czy generowane pytania pokrywają to, o co naprawdę pytają na rozmowach — skoryguje to dopiero pierwsza seria mock interviews
+
 ## D-003: Rezygnacja z dwóch repoztoriów public/private (2026-06-11)
 
 **Kontekst:** Lekcja 02 zakłada publiczne/prywatne repozytorium..
