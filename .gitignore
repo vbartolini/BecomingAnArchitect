@@ -16,3 +16,8 @@ obj/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Anki — fiszki sa materialem lokalnym, nigdy nie trafiaja do repo
+# (paczki .apkg oraz cale foldery anki/: generatory, zrodla pytan, cache)
+*.apkg
+anki/

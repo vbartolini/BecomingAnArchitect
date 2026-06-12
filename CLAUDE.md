@@ -58,6 +58,19 @@ Przy generowaniu nowych lekcji: jeśli lekcja każe wytworzyć artefakt publiczn
 - Kolejność modułów: 0 → 1 → 2 → 3 → 4 (lekki) → 5 (częściowo równolegle z 2–4) → 6 → Capstone. Capstone wymaga ukończonych modułów 2–3.
 - Postęp odnotowuj w `progress.md` (jeśli istnieje) po każdym ukończonym tygodniu.
 
+## Fiszki Anki (materiał lokalny — nigdy w repozytorium)
+
+Fiszki Anki i wszystko, co służy do ich wytworzenia, to prywatny materiał do nauki — **nie trafia do repozytorium**. `.gitignore` ignoruje `*.apkg` oraz każdy folder o nazwie `anki/`. Nigdy nie dodawaj tych plików siłą (`git add -f`) i nie umieszczaj pytań/fiszek poza strukturą opisaną niżej, bo wyciekną do gita.
+
+Struktura i sposób generowania (wzorzec: `kurs/01-fundamenty-myslenia-architektonicznego/anki/`):
+
+- Całość mieszka w `kurs/NN-modul/anki/`: generatory (`generate_anki.py` — talia bazowa z fiszkami w kodzie, `generate_szczegolowe.py` — talia szczegółowa), paczki zbiorcze `.apkg` i README.
+- **Źródła pytań szczegółowych**: `anki/zrodla/<folder-lekcji>.md` — nagłówek `### ` = pytanie, treść pod nim = odpowiedź (akapity, `**pogrubienia**`, listy `- `; bez tabel i nagłówków w odpowiedziach). Plików `.md` z pytaniami nie zostawiaj w folderach lekcji.
+- Generator szczegółowy zapisuje oprócz paczki zbiorczej **paczkę per lekcja do folderu lekcji**, nazwaną tak samo jak folder: `NN-lekcja/<NN-lekcja>.apkg` (dzięki regule `*.apkg` te pliki też są ignorowane).
+- **Nazwy talii**: `Architect Track::L<poziom><lekcja> - <nazwa lekcji>`, np. `L0101 - Atrybuty jakościowe` (L = lekcja, pierwsza para cyfr = poziom/moduł, druga = numer lekcji). Bez pośrednich poziomów typu "M1 Szczegółowe" — talia bazowa i szczegółowa zasilają tę samą talię lekcji.
+- **GUID-y kart**: liczone z treści pytania, w rozdzielnych namespace'ach per paczka (np. `m1-szczegolowe::<pytanie>`), żeby ponowny import aktualizował karty zamiast tworzyć duplikaty.
+- Ponieważ folder `anki/` jest poza gitem, nie ma kopii zapasowej w repozytorium — nie usuwaj źródeł w `zrodla/` przy porządkach.
+
 ## Jak rozbudowywać kurs (instrukcja dla Claude Code)
 
 - Nową lekcję dodawaj jako kolejny folder `NN-...` w odpowiednim module, według szablonu powyżej.
