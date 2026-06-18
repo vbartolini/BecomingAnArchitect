@@ -99,9 +99,9 @@ Uwaga na **analysis paralysis**: jeśli analiza two-way door trwa dłużej niż 
 
 ## Praktyka
 
-- [ ] Weź jedną dużą decyzję techniczną ze swojej przeszłości (np. wybór sposobu integracji w Perfect Gym, architektura rezerwacji w Aerotunelu, "DayChunks bez backendu") i **zrekonstruuj analizę, której wtedy nie spisano**: problem, kryteria, min. 3 opcje (w tym ta odrzucona i ta wybrana), macierz, rekomendacja. Pisz tak, jakbyś przekonywał ówczesnego siebie.
-- [ ] Dla każdej opcji z macierzy zaklasyfikuj: one-way czy two-way door? Czy ówczesna staranność była proporcjonalna do odwracalności?
-- [ ] Wypisz 5 decyzji czekających cię w DayChunks (np. sposób przechowywania danych, model synchronizacji, framework UI) i poukładaj je na osi odwracalności. Zaznacz, które zasługują na pełną analizę, a które na decyzję w 5 minut.
+- [x] Weź jedną dużą decyzję techniczną ze swojej przeszłości (np. wybór sposobu integracji w Perfect Gym, architektura rezerwacji w Aerotunelu, "DayChunks bez backendu") i **zrekonstruuj analizę, której wtedy nie spisano**: problem, kryteria, min. 3 opcje (w tym ta odrzucona i ta wybrana), macierz, rekomendacja. Pisz tak, jakbyś przekonywał ówczesnego siebie.
+- [x] Dla każdej opcji z macierzy zaklasyfikuj: one-way czy two-way door? Czy ówczesna staranność była proporcjonalna do odwracalności?
+- [x] Wypisz 5 decyzji czekających cię w DayChunks (np. sposób przechowywania danych, model synchronizacji, framework UI) i poukładaj je na osi odwracalności. Zaznacz, które zasługują na pełną analizę, a które na decyzję w 5 minut.
 - [ ] Pytanie kontrolne (odpowiedz pisemnie, 3–4 zdania): dlaczego mechaniczne sumowanie punktów w macierzy opcji jest pułapką?
 
 ## Artefakt
@@ -111,8 +111,8 @@ Plik `analiza-trade-off-01.md` w repo nauki: pełna pisemna analiza z pierwszego
 ## Definition of Done
 
 - [ ] Umiesz wyrecytować i zilustrować własnym przykładem oba prawa architektury Richardsa/Forda.
-- [ ] Twoja macierz ma minimum 3 opcje (w tym "nie robić nic"/"najprościej") i kryteria ustalone przed opcjami.
-- [ ] W rekomendacji jest wprost nazwane: co poświęcamy i jaki jest warunek rewizji decyzji.
+- [x] Twoja macierz ma minimum 3 opcje (w tym "nie robić nic"/"najprościej") i kryteria ustalone przed opcjami.
+- [x] W rekomendacji jest wprost nazwane: co poświęcamy i jaki jest warunek rewizji decyzji.
 - [ ] Umiesz dla dowolnej świeżej decyzji powiedzieć w 30 sekund: one-way czy two-way door i ile staranności jej się należy.
 - [ ] Test z lustra: opowiedz na głos analizę z artefaktu w 3 minuty, kończąc zdaniem "wybrałem X, płacąc Y". Jeśli "Y" brzmi pusto — wróć do macierzy.
 
