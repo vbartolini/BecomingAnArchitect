@@ -4,7 +4,7 @@
 
 ## Status modułów
 
-- [ ] 00 — Setup i rytm pracy
+- [x] 00 — Setup i rytm pracy
 - [ ] 01 — Fundamenty myślenia architektonicznego
 - [ ] 02 — Systemy rozproszone
 - [ ] 03 — Cloud-native na Azure
@@ -37,6 +37,28 @@
 
 <!-- Wpisy tygodniowe dodawaj poniżej, najnowszy na górze. -->
 
+## Tydzień 2 (2026-06-15 – 2026-06-21)
+
+**Moduł / lekcje:** 01-fundamenty-myslenia-architektonicznego, lekcje 01-atrybuty-jakosciowe, 02-trade-off-analysis
+**Zrobione:**
+- zapoznano się z lekcją o atrybutach jakościowych
+- zapoznano się z lekcją o trade-off'ach
+- wykonano ćwiczenia z lekcji 02 modułu pierwszego
+- stworzono 6 nowych ćwiczeń do lekcji 02 modułu pierwszego
+
+**Artefakty:** (kod / diagram / ADR / post — linki)
+- analiza-trade-off-01.md
+- additional_exercises.md - lista 6 ćwiczeń do lekcji 02 modułu pierwszego
+- post na Linked-In https://www.linkedin.com/feed/update/urn:li:activity:7473279734722887680/
+
+**LinkedIn:** post: tak | komentarze: 0 | nowe kontakty: 0
+
+**Przegląd tygodnia:**
+- Co działało: regularne uczenie się małym porcjami. Nic mnie nie goni, robię rzeczy swoim tempem w miarę swoich możliwości.
+- Co wyciąć / zmienić: na pewno potrzebuję więcej ćwiczeń, bo jedno ćwiczenie z lekcji nie jest w stanie utrwalić wiedzy czy nawet w pełni ją poczuć.
+- W tym tygodniu nie podjąłem żadnej ważnej decyzji.
+
+## Tydzień 1 (2026-06-11 – 2026-06-14)
 **Moduł / lekcje:** 00 — Setup i rytm pracy, lekcje 01–03 (2026-06-09 - 2026-06-11)
 
   **Zrobione:**
